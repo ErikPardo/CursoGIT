@@ -8,3 +8,4 @@ Cambio de Commit 2
 Ejercicio 3 - Creacion de branch
 Ejercicio 4 - MERGE
 Ejercicio 5 - Conflictos
+Ejercicio 5 - Conflictos 2
